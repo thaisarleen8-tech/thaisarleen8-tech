@@ -32,5 +32,7 @@ FOCUS
 15.GPU computing and inference optimization
 16.AI safety and adversarial robustness
 17.Open-source engineering tools
+
 CONNECT
+
 LinkedIn:https://www.linkedin.com/in/thais-arleen-462747450**
