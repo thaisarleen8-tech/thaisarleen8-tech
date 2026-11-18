@@ -1,6 +1,8 @@
-THAIS ARLEEN 
-SENIOR SOFTWARE ENGINEER | AI ENGINEER | AI MODEL EVALUATION SPECIALIST 
-I am a Senior Software Engineer and AI Engineer with 11 years of experience across software engineering, distributed systems, high-performance computing, and AI model evaluation.
+**THAIS ARLEEN**
+
+**SENIOR SOFTWARE ENGINEER | AI ENGINEER | AI MODEL EVALUATION SPECIALIST**
+
+**I am a Senior Software Engineer and AI Engineer with 11 years of experience across software engineering, distributed systems, high-performance computing, and AI model evaluation.
 My work focuses on bulding reliable software systems, evaluating advanced AI models, improving model quality, and developing practical engineering solutions.
 Areas of Expertise
 Software Engineering: Python, C++, C#, Rust, Go, TypeScript
@@ -31,4 +33,4 @@ FOCUS
 16.AI safety and adversarial robustness
 17.Open-source engineering tools
 CONNECT
-LinkedIn:https://www.linkedin.com/in/thais-arleen-462747450
+LinkedIn:https://www.linkedin.com/in/thais-arleen-462747450**
